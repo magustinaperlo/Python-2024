@@ -10,4 +10,7 @@ for numero in numeros:
     if(numero<menor):
         menor=numero
 print(f"El mayor es {mayor} y el menor es {menor}")
+
+#podrias utilizar if y elseif
+#Excelente !!! 
     
